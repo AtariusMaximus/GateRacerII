@@ -1,6 +1,8 @@
 # GateRacerII
 This is the code repository for the Atari 2600 game Gate Racer II.
 
+<img><img src="https://github.com/AtariusMaximus/GateRacerII/blob/main/GateRacerII_Artwork.png">
+
 Development Thread: https://forums.atariage.com/topic/209959-gate-racer-with-high-score-saving-on-atarivoxsavekey/#comment-2714311
 
 Gate Racer puts you in control of a high speed race car in a fierce time competition to post the fastest time without crashing your car into the side of the road or into a barrier on the road way.  Use your finely tuned driving skills to expertly navigate the random gates that are placed on the road course.  The car’s inertia will pull you to the sides of the road, so perfect timing and lots of practice are required to gain the skills needed to be a top driver.
