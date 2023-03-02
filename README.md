@@ -17,7 +17,7 @@ The object of the game is to survive on the road as long as you can. There is a 
 
 This is the road couse you’ll see when playing the game. At the top is the gate that you must pass through. It’s location changes randomly as the gates scroll. The white block is the booster pack, the grey sprite is the oil slick, your car is near the bottom, and your time is recorded with the timer at the bottom of the screen.
 
-<img><img src="https://github.com/AtariusMaximus/GateRacerII/blob/main/Example1.png">
+<img><img src="https://github.com/AtariusMaximus/GateRacerII/blob/main/Example2.png">
 
 This is the opening title screen for Gate Racer II. After you’ve played through the game once with an AtariVox or SaveKey plugged in, your high score will be displayed here.  It will be all zero’s if no high score has been recorded or if there is no AtariVox or SaveKey currently plugged in.
 
